@@ -1,0 +1,2 @@
+NTH = "countries/State of Nature Hobbes.txt"
+NTL = "countries/State of Nature Locke.txt"
